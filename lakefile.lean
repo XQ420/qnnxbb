@@ -1,7 +1,7 @@
 import Lake
 open Lake DSL
 
-package «LFNIS» {
+package «SyniLF» {
 
 }
   -- add any package configuration options here
@@ -11,7 +11,7 @@ require mathlib from git
 
 
 @[default_target]
-lean_lib «LFNIS» {
+lean_lib «SyniLF» {
 
 }
   -- add any library configuration options here
