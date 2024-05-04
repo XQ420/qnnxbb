@@ -1,0 +1,13 @@
+H_init1: (11*x(1)^2)/98
+
+newton refine update time: 0.07931 s
+newton refine update iteration count: 1
+
+----------------------------------------------
+
+vec_d :=
+[98/11
+];
+q_list := 
+[(11*X1)/98
+]

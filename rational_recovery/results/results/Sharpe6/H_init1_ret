@@ -1,0 +1,15 @@
+H_init1: (27*x(1)^2)/5125 + (11*x(2)^2)/5125
+
+newton refine update time: 0.13618 s
+newton refine update iteration count: 10
+
+----------------------------------------------
+
+vec_d :=
+[5125/11, 
+5125/27
+];
+q_list := 
+[(11*X2)/5125, 
+(27*X1)/5125
+]

@@ -1,0 +1,13 @@
+H_init1: (23*x(1)^2)/93
+
+newton refine update time: 0.060138 s
+newton refine update iteration count: 1
+
+----------------------------------------------
+
+vec_d :=
+[93/23
+];
+q_list := 
+[(23*X1)/93
+]

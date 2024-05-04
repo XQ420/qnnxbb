@@ -1,0 +1,15 @@
+H_init1: (37*x(1)^2)/88 + (13*x(2)^2)/88
+
+newton refine update time: 0.094541 s
+newton refine update iteration count: 1
+
+----------------------------------------------
+
+vec_d :=
+[88/13, 
+88/37
+];
+q_list := 
+[(13*X2)/88, 
+(37*X1)/88
+]

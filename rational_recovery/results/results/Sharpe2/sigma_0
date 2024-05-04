@@ -1,0 +1,13 @@
+H_uns1: (13*x(1)^2)/93-0
+
+newton refine update time: 0.10045 s
+newton refine update iteration count: 1
+
+----------------------------------------------
+
+vec_d :=
+[93/13
+];
+q_list := 
+[(13*X1)/93
+]

@@ -1,0 +1,15 @@
+H_uns1: (69*x(1)^2)/88 + (93*x(2)^2)/88-0
+
+newton refine update time: 0.10095 s
+newton refine update iteration count: 1
+
+----------------------------------------------
+
+vec_d :=
+[88/93, 
+88/69
+];
+q_list := 
+[(93*X2)/88, 
+(69*X1)/88
+]
